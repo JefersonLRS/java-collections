@@ -53,5 +53,6 @@ public class AgendaContatos {
 
         agendaContatos.showContact();
         System.out.println(agendaContatos.searchByName("Duda"));
+
     }
 }
